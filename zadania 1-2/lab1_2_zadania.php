@@ -3,7 +3,7 @@
     <title> Rozwiązania zadań </title>
     <style>
         body {
-    background-image: url("https://media.tenor.com/P49xhh2DMcMAAAAM/fortnite-funny-dance.gif");
+/*     background-image: url("https://media.tenor.com/P49xhh2DMcMAAAAM/fortnite-funny-dance.gif");  */
         }
     </style>
 </head>
